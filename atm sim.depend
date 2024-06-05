@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1640172639 source:c:\users\samee\documents\codeblock projects\atm sim\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<string>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1640172639 source:s:\my stuff\mini projects\atm sim\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<string>
+	<conio.h>
+	<time.h>
+	<string.h>
+
